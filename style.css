@@ -55,7 +55,7 @@ body {
 
 .container1 {
   position: absolute;
-  margin-top: 10%;
+  margin-top: 50px;
   width: 100%;
   display: flex;
   flex-wrap: nowrap;
@@ -65,7 +65,7 @@ body {
 
 .container2 {
   position: absolute;
-  margin-top: 400px;
+  margin-top: 200px;
   width: 100%;
   display: flex;
   flex-wrap: nowrap;
@@ -75,7 +75,7 @@ body {
 
 .container3 {
   position: absolute;
-  margin-top: 600px;
+  margin-top: 350px;
   width: 100%;
   display: flex;
   flex-wrap: nowrap;
