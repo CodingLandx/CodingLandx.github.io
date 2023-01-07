@@ -12,6 +12,10 @@ const btn9 = document.querySelector(".btn--9");
 const btn10 = document.querySelector(".btn--10");
 const btn11 = document.querySelector(".btn--11");
 const btn12 = document.querySelector(".btn--12");
+const btn13 = document.querySelector(".btn--13");
+const btn14 = document.querySelector(".btn--14");
+const btn15 = document.querySelector(".btn--15");
+const btn16 = document.querySelector(".btn--16");
 
 //Links
 
@@ -66,3 +70,27 @@ btn11.addEventListener("click", function () {
 btn12.addEventListener("click", function () {
   window.open("https://www.armanelgtron.tk/");
 });
+
+btn13.addEventListener("click", function () {
+    window.open(
+      "https://wiki.armagetronad.org/index.php/Ladle/Challenge_Board"
+    );
+  });
+
+  btn14.addEventListener("click", function () {
+    window.open(
+      "https://wiki.armagetronad.org/index.php?title=Ladle/Results"
+    );
+  });
+
+  btn15.addEventListener("click", function () {
+    window.open(
+      "https://wiki.armagetronad.org/index.php/Ladle/Challenge_Board#Recordings.2FScreenshots"
+    );
+  });
+
+  btn16.addEventListener("click", function () {
+    window.open(
+      "https://codinglandx.github.io/"
+    );
+  });
