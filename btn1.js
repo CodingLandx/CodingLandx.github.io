@@ -72,7 +72,7 @@ if(btn12) btn12.addEventListener("click", function () {
 });
 
 if(btn13) btn13.addEventListener("click", function () {
-    window.open("https://wiki.armagetronad.org/index.php/Ladle/Challenge_Board");
+    window.open("https://wiki.armagetronad.org/index.php/Ladle/Challenge_Board#Teams");
   });
 
 if(btn14) btn14.addEventListener("click", function () {
