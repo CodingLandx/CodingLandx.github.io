@@ -72,25 +72,17 @@ btn12.addEventListener("click", function () {
 });
 
 btn13.addEventListener("click", function () {
-    window.open(
-      "https://wiki.armagetronad.org/index.php/Ladle/Challenge_Board"
-    );
+    window.open("https://wiki.armagetronad.org/index.php/Ladle/Challenge_Board");
   });
 
   btn14.addEventListener("click", function () {
-    window.open(
-      "https://wiki.armagetronad.org/index.php?title=Ladle/Results"
-    );
+    window.open("https://wiki.armagetronad.org/index.php?title=Ladle/Results");
   });
 
   btn15.addEventListener("click", function () {
-    window.open(
-      "https://wiki.armagetronad.org/index.php/Ladle/Challenge_Board#Recordings.2FScreenshots"
-    );
+    window.open("https://wiki.armagetronad.org/index.php/Ladle/Challenge_Board#Recordings.2FScreenshots");
   });
 
   btn16.addEventListener("click", function () {
-    window.open(
-      "https://codinglandx.github.io/"
-    );
+    window.open("https://codinglandx.github.io/");
   });
