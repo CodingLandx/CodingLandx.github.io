@@ -84,5 +84,5 @@ if(btn15) btn15.addEventListener("click", function () {
   });
 
 if(btn16) btn16.addEventListener("click", function () {
-    window.location.replace("https://codinglandx.github.io/" "_self");
+    window.open("https://codinglandx.github.io/" "_self");
   });
