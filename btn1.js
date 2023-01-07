@@ -80,7 +80,7 @@ if(btn14) btn14.addEventListener("click", function () {
   });
 
 if(btn15) btn15.addEventListener("click", function () {
-    window.open("https://wiki.armagetronad.org/index.php/Ladle/Challenge_Board#Recordings.2FScreenshots");
+    window.open("https://www.youtube.com/watch?v=v8Gym_Fp4yo&list=PLX2nboN_I954eo5_I_pEPtFxeGWR9fKMl");
   });
 
 if(btn16) btn16.addEventListener("click", function () {
