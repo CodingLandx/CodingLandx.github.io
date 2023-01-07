@@ -44,15 +44,15 @@ if(btn5) btn5.addEventListener("click", function () {
 });
 
 if(btn6) btn6.addEventListener("click", function () {
-  window.open("https://armarankings.com/");
+  window.open("https://codinglandx.github.io/timer.html");
 });
 
 if(btn7) btn7.addEventListener("click", function () {
-  window.open("http://wiki.armagetronad.org/index.php?title=Sumo");
+  window.open("https://armarankings.com/");
 });
 
 if(btn8) btn8.addEventListener("click", function () {
-  window.open("http://wiki.armagetronad.net/index.php/Fortress");
+  window.open("http://wiki.armagetronad.org/index.php?title=Sumo");
 });
 
 if(btn9) btn9.addEventListener("click", function () {
